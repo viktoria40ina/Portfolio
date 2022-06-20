@@ -1,0 +1,22 @@
+.footer {
+    background-color: rgb(163, 163, 163);
+}
+
+.foot {
+    position: relative;
+    display:inline-block;
+    width: 44%;
+    text-align: center;
+    padding: 0% 0% 0% 2%;
+    vertical-align:top;    
+}
+
+.block {
+    width:100%;
+    font-size: 40%;
+}
+
+.year {
+    font-size: 90%;
+    text-align: center;
+}

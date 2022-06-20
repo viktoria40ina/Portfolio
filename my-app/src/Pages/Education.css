@@ -1,0 +1,25 @@
+.education {
+    position: relative;
+    display:inline-block;
+    width: 44%;
+    text-align: left;
+    padding: 3% 3% 3% 3%;
+    vertical-align:top;
+    height: 450px;
+}
+
+.block {
+    width:100%;
+
+}
+
+.block li{
+    font-size: 300%;
+}
+
+.block h1 {
+    font-size: 400%;
+}
+.block h2 {
+    font-size: 250%;
+}

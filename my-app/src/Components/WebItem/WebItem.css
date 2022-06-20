@@ -1,0 +1,36 @@
+.webItem {
+    width: 100%;
+    text-align: left;
+    padding: 0% 0% 0% 0%;
+    vertical-align:baseline;
+}
+
+p {
+    font-size: 250%;
+    padding: 1%;
+}
+
+.descr {
+    margin: 3%;
+    width: 90%;
+    font-size: 150%;
+    text-align:justify;
+}
+
+.webImg {
+    width: 100%;  
+}
+
+.but {
+    text-align: right;
+}
+
+.button {
+    background-color: rgb(50, 50, 50);
+    color: rgb(255, 255, 255);
+    padding: 1%;
+    font-family: 'ДУРИК';
+    margin: 0% 6% 2% 2%;
+    border: none;
+
+}

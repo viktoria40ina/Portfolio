@@ -1,0 +1,32 @@
+.header {
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); 
+}
+.menu {
+    list-style: none;
+    position:relative;
+    display: inline-block;
+    text-align: left;
+    width: 100%;
+}
+
+
+.title {
+    position:relative;
+    display: inline-block;
+    padding: 1% 15% 1% 0%;
+    font-size: 180%;
+}
+
+.menu ul {
+    padding-left: 0%;
+}
+
+.menu li {
+    display: inline-block;
+    padding: 1% 1% 1% 1%;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+}
